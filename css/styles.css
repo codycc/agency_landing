@@ -1,0 +1,18 @@
+body {
+  font-family: avenir; }
+
+.wrapper {
+  width: 1440px;
+  max-width: 90%;
+  margin: 0 auto; }
+
+#banner {
+  background-image: url(../images/rsz_office.jpg);
+  background-size: cover; }
+  #banner header {
+    padding: 2rem 0; }
+  #banner #logo {
+    color: #FFFFFF;
+    font-size: 1.35rem;
+    float: left;
+    margin: 0; }

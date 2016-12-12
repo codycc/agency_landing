@@ -1,0 +1,30 @@
+
+// VARIABLES
+$white: #FFFFFF;
+$highlight: #7ac483;
+$grey: #F2F1F8;
+$dark_grey:#3f3d4e;
+
+// GLOBAL STYLES
+body {
+  font-family: avenir;
+}
+.wrapper {
+  width: 1440px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+// BANNER STYLES
+#banner {
+  background-image: url(../images/rsz_office.jpg);
+  background-size: cover;
+  header {
+  padding: 2rem 0;
+  }
+  #logo {
+  color:$white;
+  font-size: 1.35rem;
+  float:left;
+  margin:0;
+  }
+}
